@@ -1,1 +1,1 @@
-# firstpython.py
+print ("hello new python")
